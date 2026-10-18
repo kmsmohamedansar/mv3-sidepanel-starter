@@ -1,5 +1,12 @@
 # mv3-sidepanel-starter
 
+## In plain English
+
+This starter shows how a browser side panel can accept a list of records, apply clear rules, track progress, and export the result as a CSV. It demonstrates the workflow with synthetic data and no connection to a real retailer.
+
+**Status:** Public starter project using synthetic data.
+
+
 A tiny Chrome **Manifest V3 side-panel** extension (named *RetailerScope Demo*): paste identifiers, apply mock scope rules, watch a Done / Pending / Total counter, and download a CSV. Everything is **synthetic**; there are no retailer pages, names or data.
 
 ## Patterns it demonstrates
