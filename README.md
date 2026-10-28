@@ -1,5 +1,8 @@
 # mv3-sidepanel-starter
 
+> This repository is a small synthetic reference implementation. For a larger Chrome side-panel example, see [Sitescout](https://github.com/kmsmohamedansar/sitescout).
+
+
 ## In plain English
 
 This starter shows how a browser side panel can accept a list of records, apply clear rules, track progress, and export the result as a CSV. It demonstrates the workflow with synthetic data and no connection to a real retailer.
